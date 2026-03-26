@@ -1,5 +1,16 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>AI & Machine Learning projects, including NLP models, Computer Vision, and automation workflows.<br><br>👯 I’m looking to collaborate on  <br>AI/ML projects, Open Source tools, Python-based automation, and innovative AI applications.<br><br>🤝 I’m looking for help with  <br>Scaling AI projects, deploying ML models, and building production-level AI systems.<br><br>🌱 I’m currently learning  <br>Claude Code, AI Agents, AI Automation, Machine Learning, and Advanced Python.<br><br>💬 Ask me about  <br>Python, Machine Learning basics, AI tools, Computer Vision (YOLO), NLP, and automation workflows.<br><br>⚡ Fun fact  <br>I enjoy building real-world AI projects and turning ideas into working applications.
+🔭 **Currently Working On** <br>
+Building **AI & Machine Learning projects**, including **NLP Text Summarization, Computer Vision (YOLO), and AI Automation tools**. 🚀<br><br>
+👯 **Looking to Collaborate On** <br>
+Exciting **Open-Source AI projects, Python-based tools, and innovative AI-driven applications**. 🤝<br><br>
+🤝 **Looking for Help With** <br>
+**Deploying AI models, building scalable ML pipelines, and improving AI automation workflows**. ⚙️<br><br>
+🌱 **Currently Learning** <br>
+Exploring **Claude Code, AI Agents, AI Automation, and advanced Machine Learning with Python**. 🧠<br><br>
+💬 **Ask Me About** <br>
+**Python, Machine Learning, AI tools, Computer Vision (YOLO), NLP models, and automation systems**. 💡<br><br>
+⚡ **Fun Fact** <br>
+I love **building real-world AI projects** and **teaching programming & technology to students**. 🎓
 
 
 # 💻 Tech Stack:
